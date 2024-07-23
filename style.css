@@ -1,0 +1,26 @@
+table, tbody * {
+    border: solid 1px;
+    text-align: center;
+}
+section, button{
+background-color: darkgrey;
+padding-top: 10px;
+padding-left: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+max-width: 150px;
+margin-left: auto;
+margin-right: auto;
+
+}
+tr, th, td{
+    width: 70px;
+}
+div, h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-style: italic;
+}
